@@ -1,5 +1,5 @@
 # REST API With Flask & SQLAlchemy
->Products API using Python Flask, SQL Alchemy and Marshmallow
+>Products API using Python Flask, SQLAlchemy and Marshmallow
 
 ## Quick Start 
 ```sh
