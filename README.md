@@ -1,7 +1,7 @@
 # REST API With Flask & SQL Alchemy
 >Products API using Python Flask, SQL Alchemy and Marshmallow
 
-##Quick Start 
+## Quick Start 
 ```sh
 # Activate venv
 $ source venv/bin/activate
@@ -19,7 +19,7 @@ $ python
 python app.py
 ```
 
-##Endpoints
+## Endpoints
 * GET /product
 * GET /product/:id
 * POST /product
